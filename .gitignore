@@ -1,0 +1,22 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Complied class #
+target
+*.class
+
+# IDE profiles #
+.idea
+.projects
+*.iml
+
+# Others #
+log
+*.log
+.DS_Store
+
+# Release #
+release.properties
+
