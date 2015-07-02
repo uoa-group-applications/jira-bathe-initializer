@@ -8,7 +8,7 @@
 		<version>1.5</version>
 	</parent>
 
-	<groupId>nz.ac.auckland.iks</groupId>
+	<groupId>nz.ac.auckland.bathe.initializers</groupId>
 	<artifactId>jira-initializer</artifactId>
 	<version>1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -26,6 +26,7 @@
 			<groupId>com.bluetrainsoftware.bathe</groupId>
 			<artifactId>bathe-booter</artifactId>
 			<version>[2.1,)</version>
+			<scope>provided</scope>
 		</dependency>
 
 	</dependencies>

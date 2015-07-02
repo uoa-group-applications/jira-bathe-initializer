@@ -1,4 +1,4 @@
-package nz.ac.auckland.iks.initializer
+package nz.ac.auckland.bathe.initializer
 
 import bathe.BatheInitializer
 import groovy.json.JsonOutput
