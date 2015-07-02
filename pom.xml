@@ -10,7 +10,7 @@
 
 	<groupId>nz.ac.auckland.bathe.initializers</groupId>
 	<artifactId>jira-initializer</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 	<packaging>jar</packaging>
 	<name>jira-initializer</name>
 
@@ -30,4 +30,8 @@
 		</dependency>
 
 	</dependencies>
+
+  <scm>
+    <tag>jira-initializer-1.2</tag>
+  </scm>
 </project>
